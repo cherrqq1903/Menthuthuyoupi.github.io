@@ -1,0 +1,30 @@
+*{
+    padding:0;
+    margin:0;
+}
+
+body{
+    background:linear-gradient(to left top, gray, white);
+}
+
+.inicio{
+    justify-content: center;
+}
+
+h3{
+    text-decoration: underline;
+}
+
+h2{
+    text-align: center;
+}
+
+.bg-gray{
+    background-color: gray;
+}
+
+.icono{
+    font-size: 2rem;
+}
+
+
